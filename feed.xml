@@ -3,7 +3,7 @@
     <title>North Chatham Home Services</title>
     <link href="https://johnyux.github.io/nchsSite/feed.xml" rel="self" />
     <link href="https://johnyux.github.io/nchsSite" />
-    <updated>2021-05-25T22:43:30-04:00</updated>
+    <updated>2021-05-25T22:45:27-04:00</updated>
     <author>
         <name>Johny Dada</name>
     </author>
@@ -40,7 +40,7 @@
         <link href="https://johnyux.github.io/nchsSite/work-samples/"/>
         <id>https://johnyux.github.io/nchsSite/work-samples/</id>
 
-        <updated>2021-05-15T21:47:46-04:00</updated>
+        <updated>2021-05-25T22:45:27-04:00</updated>
             <summary>
                 <![CDATA[
                     Examples of my work Deck refurbishment Deck refurbishment Deck refurbishment Deck design and build Chair repair- start state Chair repair-&hellip;
@@ -49,7 +49,7 @@
         <content type="html">
             <![CDATA[
                 <p>Examples of my work</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
 <figure class="gallery__item"><a href="https://johnyux.github.io/nchsSite/media/posts/4/gallery/1620425311455.jpg" data-size="1024x768"><img loading="lazy" src="https://johnyux.github.io/nchsSite/media/posts/4/gallery/1620425311455-thumbnail.jpg" alt="" width="768" height="576"></a>
 <figcaption>Deck refurbishment</figcaption>
 </figure>
@@ -73,9 +73,6 @@
 </figure>
 <figure class="gallery__item"><a href="https://johnyux.github.io/nchsSite/media/posts/4/gallery/IMG_20210514_140848057.jpg" data-size="4096x3072"><img loading="lazy" src="https://johnyux.github.io/nchsSite/media/posts/4/gallery/IMG_20210514_140848057-thumbnail.jpg" alt="" width="768" height="576"></a>
 <figcaption>Bathroom vanity &amp; fixture install</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://johnyux.github.io/nchsSite/media/posts/4/gallery/P3220218.JPG" data-size="2048x1536"><img loading="lazy" src="https://johnyux.github.io/nchsSite/media/posts/4/gallery/P3220218-thumbnail.JPG" alt="" width="768" height="576"></a>
-<figcaption>Beginnings of playset structure</figcaption>
 </figure>
 </div></div>
             ]]>
