@@ -3,7 +3,7 @@
     <title>North Chatham Home Services</title>
     <link href="https://johnyux.github.io/nchsSite/feed.xml" rel="self" />
     <link href="https://johnyux.github.io/nchsSite" />
-    <updated>2021-05-25T22:36:15-04:00</updated>
+    <updated>2021-05-25T22:40:39-04:00</updated>
     <author>
         <name>Johny Dada</name>
     </author>
@@ -17,16 +17,16 @@
         <link href="https://johnyux.github.io/nchsSite/welcome-to-north-chatham-home-services/"/>
         <id>https://johnyux.github.io/nchsSite/welcome-to-north-chatham-home-services/</id>
 
-        <updated>2021-05-25T22:36:15-04:00</updated>
+        <updated>2021-05-25T22:40:39-04:00</updated>
             <summary>
                 <![CDATA[
-                     Caption Need help fixing, upgrading, remodeling, or beautifying your home? Do you need a handyman? Fix-it? Jack-of-all-trades? Not sure?&hellip;
+                     complete deck refurb by NCHS Need help fixing, upgrading, remodeling, or beautifying your home? Do you need a handyman?&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <figure class="post__image post__image--center" ><img loading="lazy" src="https://johnyux.github.io/nchsSite/media/posts/5/1620425311455-2.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://johnyux.github.io/nchsSite/media/posts/5/responsive/1620425311455-2-xs.jpg 300w ,https://johnyux.github.io/nchsSite/media/posts/5/responsive/1620425311455-2-sm.jpg 480w ,https://johnyux.github.io/nchsSite/media/posts/5/responsive/1620425311455-2-md.jpg 768w"  alt="deck rehab by NCHS" width="1024" height="768">
-<figcaption >Caption</figcaption>
+<figcaption >complete deck refurb by NCHS</figcaption>
 </figure>
 <p>Need help fixing, upgrading, remodeling, or beautifying your home? Do you need a handyman? Fix-it? Jack-of-all-trades? Not sure? We proudly provide services to Pittsboro, NC and surrounding communities - including Chapel Hill and Carrboro.<br><br>When calling, please leave a voice message. I will return all calls within 1 business day.<br><br>I am fully insured and guarantee all work.</p>
             ]]>
@@ -78,26 +78,6 @@
 <figcaption>Beginnings of playset structure</figcaption>
 </figure>
 </div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>About us</title>
-        <author>
-            <name>Johny Dada</name>
-        </author>
-        <link href="https://johnyux.github.io/nchsSite/about-us/"/>
-        <id>https://johnyux.github.io/nchsSite/about-us/</id>
-
-        <updated>2021-05-15T21:49:12-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Enter a good story about my journey
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Enter a good story about my journey</p>
             ]]>
         </content>
     </entry>
